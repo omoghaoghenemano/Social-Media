@@ -70,6 +70,7 @@ if(isset($_POST["login"]))
    <br />
    
    <h3 align="center">Ma Chat</a></h3><br />
+      <p align="center">Design by Oghenemano Omogha @manoomogha@yahoo.com</a></p><br />
    <br />
    <div class="panel panel-default">
       <div class="panel-heading">Enter your details</div>
