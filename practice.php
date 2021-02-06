@@ -142,7 +142,7 @@ span.psw {
     <button type="submit" name="loginbtn" >login</a> </button>
 	</div>
 	
-	 <a href = "register.html" >Create New Account</a>
+	 <a href = "register.php" >Create New Account</a>
 	
 	
     <label>
